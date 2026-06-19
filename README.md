@@ -77,3 +77,5 @@ The goal is to gradually progress from basic components to more interactive desk
 - Progress Bars
 - Sliders
 - Tables
+
+**Author:** Eshal Naeem
