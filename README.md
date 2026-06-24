@@ -14,6 +14,10 @@ This repository serves as a hands-on learning journal where I practice fundament
 - JCheckBox
 - JRadioButton
 - JOptionPane
+- JSlider
+- JTable
+- JProgressBar
+- JMenuBar
 
 ### Layout Managers
 - FlowLayout
@@ -24,6 +28,8 @@ This repository serves as a hands-on learning journal where I practice fundament
 ### Event Handling
 - ActionListener
 - KeyListener
+- MouseListener
+- ChangeListener
 
 ### Features Practiced
 - Creating and customizing application windows
@@ -33,6 +39,9 @@ This repository serves as a hands-on learning journal where I practice fundament
 - Taking user input through various Swing components
 - Displaying dialog boxes
 - Grouping radio buttons
+- Creating menus and menu bars
+- Building tables
+- Implementing sliders and progress bars
 - Managing layered components
 - Customizing colors, fonts, and window properties
 
@@ -57,12 +66,23 @@ src/
     ├── JButtons.java
     ├── JFrames.java
     ├── JLabels.java
-    ├── JlayeredPane.java
-    ├── JoptionPaneDemo.java
+    ├── JLayeredPane.java
+    ├── JOptionPaneDemo.java
     ├── JPanels.java
+    ├── JTables.java
     ├── KeyListenerDemo.java
+    ├── MenuBars.java
+    ├── MouseListenerDemo.java
+    ├── ProgressBars.java
     ├── RadioButtons.java
+    ├── Sliders.java
     └── TextFields.java
+
+images/
+├── bearPic.png
+├── Cat.jpg
+├── check.webp
+└── xicon.jpg
 ```
 ## Purpose
 
@@ -70,12 +90,5 @@ This repository was created to strengthen my understanding of Java GUI developme
 
 The goal is to gradually progress from basic components to more interactive desktop applications while improving Java, object-oriented programming, and Git/GitHub skills.
 
-## Future Additions
-
-- Menus and Menu Bars
-- Mouse Listener
-- Progress Bars
-- Sliders
-- Tables
 
 **Author:** Eshal Naeem
